@@ -11,7 +11,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"			"0"
-		"medal_width"			"0"
+		"medal_width"			"12"
 		"avatar_width"		"60"
 		"avatar_width_minmode"   "56"
 		"name_width"		"100"
@@ -20,7 +20,9 @@
 		"nemesis_width"		"15"
 		"class_width"		"15"
 		"score_width"		"25"
-		"ping_width"		"25"
+		"ping_width"		"20"
+		"stats_width"			"30"
+		"killstreak_width"		"20"	
 	}
 	"BluePlayerList"
 	{

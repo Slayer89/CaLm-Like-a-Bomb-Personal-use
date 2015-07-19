@@ -707,7 +707,887 @@ Scheme
             "outline"   "0"
         }
         }   
-        fogCrosshair
+                "size:10,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "10"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:11,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "11"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:12,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "12"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:13,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "13"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:14,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "14"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:15,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "15"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:16,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "16"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:17,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "17"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:18,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "18"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:19,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "19"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:20,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "20"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:21,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "21"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:22,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "22"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:23,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "23"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:24,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "24"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:25,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "25"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:26,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "26"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:27,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "26"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:28,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "28"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:29,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "29"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:30,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "30"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:31,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "31"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:32,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "32"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:33,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "33"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:34,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "34"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:35,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "35"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:36,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "36"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:37,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "37"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:38,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "38"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:39,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "39"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:40,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "40"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:41,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "41"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:42,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "42"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:43,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "43"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:44,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "44"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:45,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "45"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:46,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "46"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:47,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "47"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:48,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "48"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:49,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "49"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:50,outline:off"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "50"
+                                "antialias" "1"
+                                "additive"      "0"
+                                "outline"       "0"
+                        }
+                }
+                "size:12,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "12"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:13,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "13"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:14,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "14"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:15,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "15"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:16,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "16"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:17,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "17"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:18,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "18"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:19,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "19"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:20,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "20"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:21,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "21"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:22,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "22"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:23,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "23"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:24,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "24"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:25,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "25"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:26,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "26"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:27,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "26"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:28,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "28"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:29,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "29"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:30,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "30"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:31,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "31"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:32,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "32"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:33,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "33"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:34,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "34"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:35,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "35"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:36,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "36"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:37,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "37"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:38,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "38"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:39,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "39"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:40,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "40"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:41,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "41"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:42,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "42"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:43,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "43"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:44,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "44"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:45,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "45"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:46,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "46"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:47,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "47"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:48,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "48"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:49,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "49"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }
+                "size:50,outline:on"
+                {
+                        "1"
+                        {
+                                "name"  "KnucklesCrosses"
+                                "tall"  "50"
+                                "antialias" "0"
+                                "additive"      "0"
+                                "outline"       "1"
+                        }
+                }        
+				fogCrosshair
         {
             "1"
             {
@@ -3578,6 +4458,16 @@ Scheme
                 "antialias" "1"
             }
         }
+		"SpectatorVerySmall"
+		{
+			"1"
+			{
+				"name"		"SurfaceHPAmmo-Medium"
+				"tall"		"12"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
         // Used by scoreboard and spectator UI for names which don't map in the normal fashion
         "DefaultVerySmallFallBack"
         {
@@ -3651,7 +4541,16 @@ Scheme
                 "antialias"     "1"
             }
         }
-        "ItemFontAttribLarge"
+		ItemFontAttribSmallv2
+		{
+			"1"
+			{
+				"name"		"MuseoSansCyrl-500"
+				"tall"		"8"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}        "ItemFontAttribLarge"
         {
             "1"
             {
@@ -3694,7 +4593,170 @@ Scheme
                 "antialias"     "1"
             }
         }
-        
+		"QuestObjectiveTracker_Desc"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"7"
+				"weight"	"0"
+				"additive"	"1"
+				"antialias" 	"1"
+			}
+		}
+		"QuestObjectiveTracker_DescGlow"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"7"
+				"weight"	"0"
+				"antialias" 	"1"
+			}
+		}
+		"QuestObjectiveTracker_DescBlur"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"7"
+				"weight"	"0"
+				"blur"		"3"
+				"additive"	"1"
+				"antialias" 	"1"
+				"custom"	"1"
+			}
+		}
+		"ItemTrackerScore_InGame"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"7"
+				"weight"	"0"
+				"antialias" 	"1"
+			}
+		}
+		"QuestFlavorText"
+		{
+			"1"
+			{
+				"name"		"ocra"
+				"tall"		"10"
+				"weight"	"400"
+				"yres"		"480 599"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+			"2"
+			{
+				"name"		"ocra"
+				"tall"		"14"
+				"weight"	"400"
+				"additive"	"0"
+				"yres"		"600 1023"
+				"antialias"	"1"
+			}
+			"3"
+			{
+				"name"		"ocra"
+				"tall"		"18"
+				"weight"	"400"
+				"additive"	"0"
+				"yres"		"1024 6000"
+				"antialias"	"1"
+			}
+		}
+
+		"QuestObjectiveText"
+		{
+			"1"
+			{
+				"name"		"ocra"
+				"tall"		"10"
+				"weight"	"800"
+				"yres"		"480 599"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+			"2"
+			{
+				"name"		"ocra"
+				"tall"		"14"
+				"weight"	"800"
+				"additive"	"0"
+				"yres"		"600 1023"
+				"antialias"	"1"
+			}
+			"3"
+			{
+				"name"		"ocra"
+				"tall"		"18"
+				"weight"	"800"
+				"additive"	"0"
+				"yres"		"1024 6000"
+				"antialias"	"1"
+			}
+		}
+		
+		"QuestLargeText"
+		{
+			"1"
+			{
+				"name"		"ocra"
+				"tall"		"16"
+				"weight"	"400"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+
+		"QuestStickyText"
+		{
+			"1"
+			{
+				"name"		"TF2 Professor"
+				"tall"		"20"
+				"antialias" "1"
+				"custom"		"1" [$OSX]
+				"weight"	"500"
+			}
+		}
+
+		"AdFont_ItemName"
+		{
+			"1"
+			{
+				"name"		"TF2 Secondary"
+				"tall"		"10"
+				"weight"	"400"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+ 				 		
+		"AdFont_AdText"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"8"
+				"weight"	"400"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"AdFont_PurchaseButton"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"8"
+				"weight"	"0"
+				"antialias" 	"1"
+			}
+		}
+		
         
         //
         //////////////////// REPLAY FONTS //////////////////////////////
@@ -3972,6 +5034,84 @@ Scheme
                 }
             }
         }
+		EventButton_Default
+		{
+			"inset" "0 0 1 1"
+			Left
+			{
+				"1"
+				{
+					"color" "234 234 234 255"
+					"offset" "0 1"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "234 234 234 255"
+					"offset" "1 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "234 234 234 255"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "234 234 234 255"
+					"offset" "0 0"
+				}
+			}
+		}
+		EventButton_Armed
+		{
+			"inset" "0 0 1 1"
+			Left
+			{
+				"1"
+				{
+					"color" "BuffedColor"
+					"offset" "0 1"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "BuffedColor"
+					"offset" "1 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "BuffedColor"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "BuffedColor"
+					"offset" "0 0"
+				}
+			}
+		}
         
         ScrollBarButtonBorder
         {
@@ -4654,30 +5794,78 @@ Scheme
             "draw_corner_width"     "0"             // screen size of the corners ( and sides ), proportional
             "draw_corner_height"    "0" 
         }
-        BackpackItemBorder_SelfMade
-        {
-            "bordertype"            "scalable_image"
-            "backgroundtype"        "2"
-            "color"                 "QualityColorSelfMade"
-            
-            "image"                 "backpack_rect_color"
-            "src_corner_height"     "24"                // pixels inside the image
-            "src_corner_width"      "24"
-            "draw_corner_width"     "0"             // screen size of the corners ( and sides ), proportional
-            "draw_corner_height"    "0" 
-        }
-        BackpackItemMouseOverBorder_SelfMade
-        {
-            "bordertype"            "scalable_image"
-            "backgroundtype"        "2"
-            "color"                 "QualityColorSelfMade"
-            
-            "image"                 "backpack_rect_mouseover_color"
-            "src_corner_height"     "24"                // pixels inside the image
-            "src_corner_width"      "24"
-            "draw_corner_width"     "0"             // screen size of the corners ( and sides ), proportional
-            "draw_corner_height"    "0" 
-        }
+		BackpackItemGreyedOutBorder_Developer
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorDeveloper_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		BackpackItemGreyedOutSelectedBorder_Developer
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorDeveloper_GreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}	
+		BackpackItemBorder_SelfMade
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorSelfMade"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		BackpackItemMouseOverBorder_SelfMade
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorSelfMade"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		BackpackItemGreyedOutBorder_SelfMade
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorSelfMade_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		BackpackItemGreyedOutSelectedBorder_SelfMade
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorSelfMade_GreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
         BackpackItemBorder_Customized
         {
             "bordertype"            "scalable_image"
@@ -4702,6 +5890,30 @@ Scheme
             "draw_corner_width"     "0"             // screen size of the corners ( and sides ), proportional
             "draw_corner_height"    "0" 
         }
+		BackpackItemGreyedOutBorder_Customized
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorCustomized_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		BackpackItemGreyedOutSelectedBorder_Customized
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorCustomized_GreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
         BackpackItemBorder_Strange
         {
             "bordertype"            "scalable_image"
@@ -4726,6 +5938,31 @@ Scheme
             "draw_corner_width"     "0"             // screen size of the corners ( and sides ), proportional
             "draw_corner_height"    "0" 
         }
+		BackpackItemGreyedOutBorder_Strange
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorStrange_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		BackpackItemGreyedOutSelectedBorder_Strange
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorStrange_GreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		
 		BackpackItemGreyedOutSelectedBorder_Collectors
 		{
 			"bordertype"			"scalable_image"
@@ -4811,6 +6048,152 @@ Scheme
             "draw_corner_width"     "0"             // screen size of the corners ( and sides ), proportional
             "draw_corner_height"    "0" 
         }
+		// PaintkitWeapon ------------------------------------------------------------------------------------------------
+		BackpackItemBorder_PaintkitWeapon
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorPaintkitWeapon"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		BackpackItemMouseOverBorder_PaintkitWeapon
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorPaintkitWeapon"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		BackpackItemGreyedOutBorder_PaintkitWeapon
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorPaintkitWeapon_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		BackpackItemGreyedOutSelectedBorder_PaintkitWeapon
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorPaintkitWeaponGreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		
+		BackpackItemMouseOverBorder_Collectors
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorCollectors"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		BackpackItemBorder_Collectors
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorCollectors"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		BackpackItemGreyedOutSelectedBorder_Collectors
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorCollectors_GreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		BackpackItemGreyedOutBorder_Collectors
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorCollectors_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		BackpackItemBorder_Completed
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorCompleted"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		BackpackItemMouseOverBorder_Completed
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorCompleted"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		BackpackItemGreyedOutBorder_Completed
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorCompleted_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		BackpackItemGreyedOutSelectedBorder_Completed
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorCompleted_GreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
 		// ***************************************************************************
 		// Rarity Default
 		BackpackItemBorder_RarityDefault
@@ -5298,6 +6681,28 @@ Scheme
             "draw_corner_width"     "0"             // screen size of the corners ( and sides ), proportional
             "draw_corner_height"    "0" 
         }
+		MainMenuButtonDepressed
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"button_central_depressed"
+			"src_corner_height"		"32"				// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		MainMenuButtonDepressedArmed
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"button_central_depressed_armed"
+			"src_corner_height"		"32"				// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
         MainMenuButtonArmed
         {
             "bordertype"            "scalable_image"
@@ -5843,5 +7248,10 @@ Scheme
 		"font" "resource/fonts/tf2cross.ttf"
 		"name" "tf2cross"
 	  }	
-    }
+      "21"
+      {
+        "font" "resource/fonts/KnucklesCrosses.ttf"
+        "name" "KnucklesCrosses"
+      }    
+	}
 }
