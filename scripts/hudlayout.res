@@ -88,7 +88,7 @@
         "ypos"                                          "c-25"
         "wide"                                          "50"
         "tall"                                          "50"
-        "font"                                          "size:20,outline:off"
+        "font"                                     		"size:20,outline:off"
         "labelText"                                     "L"
         "textAlignment"                                 "center"
         "fgcolor"                                       "255 255 255 255"
