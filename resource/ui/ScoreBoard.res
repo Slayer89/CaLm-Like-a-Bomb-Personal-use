@@ -16,14 +16,16 @@
 		"avatar_width_minmode"   "56"
 		"name_width"		"100"
 		"name_width_minmode" "74"
-		"status_width"		"15"
+		"name_width_short"		"83"
 		"nemesis_width"		"15"
 		"class_width"		"15"
 		"score_width"		"25"
 		"ping_width"		"20"
 		"stats_width"			"30"
 		"killstreak_width"		"20"	
-	}
+		"killstreak_image_width"		"20"	
+		"spacer" 				"5"
+		}
 	"BluePlayerList"
 	{
 		"ControlName"	    "SectionedListPanel"
