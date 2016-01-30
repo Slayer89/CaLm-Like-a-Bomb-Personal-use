@@ -318,7 +318,7 @@
         "enabled"   "1"
         "xpos"      "c-120"
         "ypos"      "292"
-        "wide"      "60"
+        "wide"      "600"
         "tall"      "39"
         "priority"  "40"
     }
@@ -330,10 +330,13 @@
         "enabled"   "1"
         "xpos"      "c-120"
         "ypos"      "310"
-        "wide"      "60"
+        "wide"      "600"
         "tall"      "39"
         "priority"  "40"
-    }
+		
+		"x_offset" "20"
+		"y_offset" "20"
+   }
     
     CSecondaryTargetID
     {
@@ -342,7 +345,7 @@
         "enabled"   "1"
         "xpos"      "c-120"
         "ypos"      "412"
-        "wide"      "60"
+        "wide"      "600"
         "tall"      "39"
         "priority"  "40"
     }
